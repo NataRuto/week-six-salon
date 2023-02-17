@@ -217,7 +217,7 @@ a {
 @media all and (max-width: 500px) {
   .image {
     width: 350px;
-    height: 410px;
+    height: 400px;
   }
 
   .beauty {
@@ -227,17 +227,17 @@ a {
   }
 
   .icon {
-    width: 100%;
-    height: 10px;
+    height: 15px;
   }
 
   .back {
     padding: 15px;
+    text-shadow: 1px 2px 3px #820000; 
   }
 
   .link {
     flex: 1;
-    font-size: 12px;
+    font-size: 12.5px;
   }
 
   nav {
@@ -268,11 +268,12 @@ a {
   .postTwo {
     left: 60px;
     top: 350px;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .change {
     font-size: 12px;
   }
+  
 
 }
