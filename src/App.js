@@ -20,7 +20,7 @@ function App() {
   return  <Router>
     <nav>
       <Link to="/" className='link'>Главная</Link>
-      <Link to="/home" className='link'>Услуги салона</Link>
+      <Link to="/home" className='link'>Наши услуги</Link>
       <Link to="/haircuts" className='link'>О стрижках</Link>
       <Link to="/painting" className='link'>О покраске</Link>
       <Link to="/laying" className='link'>Об укладках</Link>
