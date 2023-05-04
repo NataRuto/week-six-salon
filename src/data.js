@@ -45,7 +45,7 @@ export const data = [
         id: 7,
         name: "французский",
         searchTerm: "маникюр",
-        image: "https://lafleur-salon.com.ua/upload/images/GKSB3942%5B1%5D.JPG"
+        image: "https://tornado-fan.ru/assets/images/blog/french-vidy/image9.jpg"
     },
 
     {
@@ -82,4 +82,5 @@ export const data = [
         searchTerm: "укладка",
         image: "https://www.salonsecret.ru/media/setka_editor/post/bez-chelki.jpg"
     }
+
 ]

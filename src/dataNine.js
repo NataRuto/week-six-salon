@@ -2,7 +2,7 @@ export const dataNine = [
     {
         id: 1,
         name: "френч",
-        image: "https://lafleur-salon.com.ua/upload/images/GKSB3942%5B1%5D.JPG"
+        image: "https://tornado-fan.ru/assets/images/blog/french-vidy/image9.jpg"
     },
 
     {
